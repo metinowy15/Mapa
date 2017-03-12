@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = mapa"
+		id          = "myfirstapp"
         version     = "1.0.0" >
 
-    <name>Mapka</name>
-    <description>poruszanie telefonem</description>
-
+    <name>Mapa</name>
+    <description>mapka do ruszania</description>
+    <author href=www.tibia.com" email="9789672@gmail.com">
+		Jakub Mrowca
+	</author>
 	<platform name="android" />
+	
 	<plugin name="cordova-plugin-device" spec="~1.1.4" />
 	<plugin name="cordova-plugin-dialogs" spec="~1.3.1" />
 
